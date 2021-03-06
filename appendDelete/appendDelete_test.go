@@ -3,7 +3,7 @@ package appendDelete
 import (
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/alecthomas/assert"
 )
 
 func TestAppendDelete(t *testing.T) {
